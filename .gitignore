@@ -1,0 +1,7 @@
+Notes/
+tests/
+old/
+*~
+*.log
+*.txt
+*.pyc
